@@ -1,17 +1,15 @@
 ### Hi there 👋
 
+My name is Abdullah Al Omar
+=============================
 
-<!--
-**abdullahalomar/abdullahalomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer
+-------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in London, England
+* 🖥️  See my portfolio at [abdullahalomar.com].] (http://abdullahalomar.com)
+* ✉️  You can contact me at [abdullahalomar048@gmail.com](mailto:abdullahalomar048@gmail.com)
+* 🚀  I'm currently working on [abdullahalomar.com].] (http://abdullahalomar.com)
+* 🧠  I'm learning a new JavaScript framework
+* 🤝  I'm open to collaborating on interesting JavaScript projects
+* ⚡  I moonlight as a super hero
