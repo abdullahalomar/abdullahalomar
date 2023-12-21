@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm enthusiastic about creating web applications t
 
 <p align="left"> <a href="https://www.facebook.com/Abdullahalomar2000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/abdullahalomar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/abdullahomar.bd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/omar17" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/m_omar40" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@AbdullahAlOmar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+<!--### Badges-->
 
 <b>My GitHub Stats</b>
 <!--
@@ -37,3 +37,44 @@ Welcome to my GitHub profile! I'm enthusiastic about creating web applications t
 <a href="http://www.github.com/abdullahalomar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalomar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 -->
 <a href="https://github.com/abdullahalomar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalomar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  
+
+
+# Hi there! 👋 I'm [Your Name], a passionate Web Developer.
+
+Welcome to my GitHub profile! I'm enthusiastic about creating web applications that are not only visually appealing but also highly functional. With a strong foundation in front-end and back-end technologies, I enjoy turning ideas into reality through clean and efficient code.
+
+## 🔧 Skills
+
+- **Languages:** HTML, CSS, JavaScript (ES6+)
+- **Front-end:** React.js, Vue.js, Angular
+- **Back-end:** Node.js, Express.js, Django
+- **Database:** MongoDB, MySQL, PostgreSQL
+- **Tools:** Git, Webpack, npm, Docker
+- **Design:** Figma, Adobe XD
+
+## 🚀 Projects
+
+### Project 1: [Project Name](Link to Project Repository)
+- Brief description of the project.
+- Technologies used.
+- Any challenges faced and how they were overcome.
+
+### Project 2: [Project Name](Link to Project Repository)
+- Brief description of the project.
+- Technologies used.
+- Any challenges faced and how they were overcome.
+
+## 🌱 Currently Learning
+
+I believe in continuous learning to stay updated with the latest technologies. Currently, I am focused on:
+
+- Exploring [Technology/Framework/Tool]
+- Improving [Specific Skill]
+
+## 📫 Let's Connect!
+
+- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
+- Portfolio: [Your Portfolio Website](Link to Portfolio)
+- Twitter: [@YourTwitterHandle](Link to Twitter)
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you'd like to collaborate on a project. Happy coding! 🚀
