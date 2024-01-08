@@ -7,12 +7,12 @@ Web Developer
 Welcome to my GitHub profile! I'm enthusiastic about creating web applications that are not only visually appealing but also highly functional. With a strong foundation in front-end and back-end technologies, I enjoy turning ideas into reality through clean and efficient code.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [abdullahalomar.com].] (http://abdullahalomar.com)
-* ✉️  You can contact me at [abdullahalomar048@gmail.com](mailto:abdullahalomar048@gmail.com)
+* 🖥️  See my portfolio at (http://abdullahalomar.com)
+* ✉️  You can contact me at (mailto:abdullahalomar048@gmail.com)
 * 🚀  I'm currently working on [abdullahalomar.com].] (http://abdullahalomar.com)
 * 🧠  I'm learning a new JavaScript framework
 * 🤝  I'm open to collaborating on interesting JavaScript projects
-* ⚡  I moonlight as a super hero
+* ⚡  I moonlight as a superhero
   
 
 ## 🔧 Skills
