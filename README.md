@@ -1,6 +1,6 @@
 <!-- # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah Al Omar -->
 
-![Header](https://github.com/abdullahalomar/abdullahalomar/blob/main/github-Banner.png)
+![Header](https://github.com/abdullahalomar/abdullahalomar/blob/main/github_banner.png)
 
 Web Developer
 -------------
