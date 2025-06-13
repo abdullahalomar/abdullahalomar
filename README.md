@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/abdullahalomar/abdullahalomar/blob/main/github_banner.png)
 
-Web Developer
+Software Quality Assurance Engineer
 -------------
 
 Welcome to my GitHub profile! I'm enthusiastic about creating web applications that are not only visually appealing but also highly functional. With a strong foundation in front-end and back-end technologies, I enjoy turning ideas into reality through clean and efficient code.
