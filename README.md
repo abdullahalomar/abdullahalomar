@@ -33,21 +33,22 @@ With a background in **manual and automation testing**, I specialize in creating
 ## 🔧 Skills
 
 <p>
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="JIRA" src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="TestRail" src="https://img.shields.io/badge/-TestRail-339933?style=flat-square&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="WebDriver" src="https://img.shields.io/badge/-WebDriver-A100FF?style=flat-square&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="tailwind" src="https://img.shields.io/badge/tailwind-%237EA1FF?style=flat-square&logo=tailwind%20css&logoColor=white">
-  <img alt="material" src="https://img.shields.io/badge/material%20ui-%230E46A3?style=flat-square&logo=mui&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/next%20js-%23151515?style=flat-square&logo=next.js&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="firebase" src="https://img.shields.io/badge/firebase-%23F8D082?style=flat-square&logo=firebase&logoColor=white">
   <img alt="firgma" src="https://img.shields.io/badge/firgma-%23FC4100?style=flat-square&logo=figma&logoColor=white">
   <img alt="google" src="https://img.shields.io/badge/google%20suite-%23FC4100?style=flat-square&logo=google%20cloud&logoColor=white">
 </p>
