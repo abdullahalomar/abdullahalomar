@@ -5,17 +5,31 @@
 Software Quality Assurance Engineer
 -------------
 
-Welcome to my GitHub profile! I'm enthusiastic about creating web applications that are not only visually appealing but also highly functional. With a strong foundation in front-end and back-end technologies, I enjoy turning ideas into reality through clean and efficient code.
+Welcome to my GitHub profile! I'm a passionate and detail-oriented **Software Quality Assurance (SQA) Engineer** with a strong focus on delivering high-quality, bug-free software products. I believe that great software is built not just by writing code, but by testing it with care, curiosity, and consistency.
+With a background in **manual and automation testing**, I specialize in creating effective test strategies, writing detailed test cases, and ensuring that every feature meets the highest standards before it reaches the end user.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at (https://abdullah-al-omar.vercel.app)
 * ✉️  You can contact me at (mailto:abdullahalomar048@gmail.com)
 * 🚀  I'm currently working on. (https://portfolio-omar-17.vercel.app)
 * 🧠  I'm learning a new JavaScript framework
-* 🤝  I'm open to collaborating on interesting JavaScript projects
+* 🤝  I'm open to collaborating on interesting Manual & Automation projects
 * ⚡  I moonlight as a superhero
-  
 
+
+### 🔍 What I Do:
+- Design and execute **manual test cases**
+- Automate tests using **Selenium**, **Postman**, and **Cypress**
+- Perform **API testing**, **UI testing**, and **functional testing**
+- Log and manage bugs using **JIRA** and **Trello**
+- Collaborate closely with developers to ensure **quality at every stage**
+
+### 🧪 Tools & Technologies:
+`Selenium` • `Postman` • `Cypress` • `JIRA` • `TestRail` • `Git` • `GitHub` • `JavaScript` • `SQL`
+
+---
+
+  
 ## 🔧 Skills
 
 <p>
@@ -36,8 +50,6 @@ Welcome to my GitHub profile! I'm enthusiastic about creating web applications t
   <img alt="firebase" src="https://img.shields.io/badge/firebase-%23F8D082?style=flat-square&logo=firebase&logoColor=white">
   <img alt="firgma" src="https://img.shields.io/badge/firgma-%23FC4100?style=flat-square&logo=figma&logoColor=white">
   <img alt="google" src="https://img.shields.io/badge/google%20suite-%23FC4100?style=flat-square&logo=google%20cloud&logoColor=white">
-
-
 </p>
 
 ## 📫 Let's Connect!
