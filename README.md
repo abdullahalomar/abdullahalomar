@@ -11,8 +11,6 @@ With a background in **manual and automation testing**, I specialize in creating
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at (https://abdullah-al-omar.vercel.app)
 * ✉️  You can contact me at (mailto:abdullahalomar048@gmail.com)
-* 🚀  I'm currently working on. (https://portfolio-omar-17.vercel.app)
-* 🧠  I'm learning a new JavaScript framework
 * 🤝  I'm open to collaborating on interesting Manual & Automation projects
 * ⚡  I moonlight as a superhero
 
