@@ -34,7 +34,7 @@ With a background in **manual and automation testing**, I specialize in creating
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-  <img alt="PlayWrite" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="PlayWrite" src="https://img.shields.io/badge/-Playwrite-17202C?style=flat-square&logo=cypress&logoColor=white" />
   <img alt="JIRA" src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img alt="TestRail" src="https://img.shields.io/badge/-TestRail-339933?style=flat-square&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
