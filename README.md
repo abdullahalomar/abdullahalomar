@@ -23,7 +23,7 @@ With a background in **manual and automation testing**, I specialize in creating
 - Collaborate closely with developers to ensure **quality at every stage**
 
 ### 🧪 Tools & Technologies:
-`Selenium` • `Postman` • `Cypress` • `JIRA` • `TestRail` • `Git` • `GitHub` • `JavaScript` • `SQL`
+`Selenium` • `Cypress` • `PlayWrite` • `Postman` • `JIRA` • `TestRail` • `Git` • `GitHub` • `JavaScript` • `SQL`
 
 ---
 
