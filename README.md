@@ -4,7 +4,7 @@
 
 Software Quality Assurance Engineer
 -------------
-
+<h1 align="left">Hey 👋 What's up?</h1>
 Welcome to my GitHub profile! I'm a passionate and detail-oriented **Software Quality Assurance (SQA) Engineer** with a strong focus on delivering high-quality, bug-free software products. I believe that great software is built not just by writing code, but by testing it with care, curiosity, and consistency.
 With a background in **manual and automation testing**, I specialize in creating effective test strategies, writing detailed test cases, and ensuring that every feature meets the highest standards before it reaches the end user.
 
